@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://baobab-digital-portfolio.vercel.app/sitemap.xml
+
+# Disallow build artifacts
+Disallow: /_next/
+Disallow: /api/

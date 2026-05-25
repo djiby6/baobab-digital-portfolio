@@ -106,7 +106,7 @@ export default function Contact() {
           <div className="flex justify-center mb-6">
             <Image
               src="/images/baobab-logo.png"
-              alt="Baobab Digital Logo"
+              alt="Baobab Digital — Contactez notre agence digitale en Afrique"
               width={180}
               height={80}
               style={{

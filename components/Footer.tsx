@@ -63,7 +63,7 @@ export default function Footer() {
             <div className="mb-6">
               <Image
                 src="/images/baobab-logo.png"
-                alt="Baobab Digital Logo"
+                alt="Baobab Digital — Agence digitale web SaaS IA Afrique"
                 width={180}
                 height={80}
                 style={{

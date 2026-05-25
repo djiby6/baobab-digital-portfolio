@@ -127,7 +127,7 @@ export default function Hero() {
             >
               <Image
                 src="/images/baobab-logo.png"
-                alt="Baobab Digital"
+                alt="Baobab Digital — Agence digitale web SaaS IA en Afrique"
                 width={180}
                 height={80}
                 priority
@@ -272,7 +272,7 @@ export default function Hero() {
                   <div style={{ borderRadius: '26px', overflow: 'hidden', background: '#F8FAFC' }}>
                     <Image
                       src="/images/profile-photo.png"
-                      alt="Djibril Ndiaye — Baobab Digital"
+                      alt="Djibril Ndiaye — Développeur Full Stack & Créateur SaaS, Baobab Digital Sénégal"
                       width={400}
                       height={460}
                       priority

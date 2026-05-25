@@ -77,7 +77,7 @@ export default function Navbar() {
             >
               <Image
                 src="/images/baobab-logo.png"
-                alt="Baobab Digital Logo"
+                alt="Baobab Digital — Agence développement web SaaS Afrique"
                 width={180}
                 height={80}
                 priority
@@ -174,7 +174,7 @@ export default function Navbar() {
               <div className="flex items-center justify-center mb-6 pb-5 border-b border-slate-100">
                 <Image
                   src="/images/baobab-logo.png"
-                  alt="Baobab Digital Logo"
+                  alt="Baobab Digital — Agence développement web SaaS Afrique"
                   width={180}
                   height={80}
                   style={{

@@ -62,7 +62,7 @@ export default function About() {
                 <div className="relative rounded-3xl overflow-hidden" style={{ background: '#F8FAFC' }}>
                   <Image
                     src="/images/profile-photo.png"
-                    alt="Djibril Ndiaye — Baobab Digital"
+                    alt="Djibril Ndiaye — Développeur Full Stack Sénégal, fondateur Baobab Digital"
                     width={480}
                     height={560}
                     style={{ display: 'block', objectFit: 'cover', objectPosition: 'center top', width: '100%', height: 'auto' }}
