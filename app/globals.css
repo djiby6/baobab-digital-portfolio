@@ -18,6 +18,12 @@
 
 html { scroll-behavior: smooth; }
 
+/* Offset for fixed navbar — JS scrollTo handles this, but native anchors need it too */
+section[id] { scroll-margin-top: 80px; }
+
+/* Prevent horizontal overflow on mobile */
+html, body { overflow-x: hidden; }
+
 body {
   background-color: #F8FAFC;
   color: #0F172A;
